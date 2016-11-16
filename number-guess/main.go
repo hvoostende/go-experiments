@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/hvoostende/learn-go/numberGuess/random"
+	"github.com/hvoostende/go-experiments/number-guess/random"
 )
 
 func main() {
